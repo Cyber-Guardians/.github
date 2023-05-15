@@ -5,7 +5,7 @@
     👋 Welcome to our team project
   </h1>
   <h4>
-    We are 🛡️ Cybersecurity professionals 🔥 studying at Code Fellows. Night Owl Network is our end of the course presentation where we demonstrate our skills and knowledge we have learned in our Networking class 🙌. 
+    We are 🛡️ Cybersecurity professionals 🔥 studying at Code Fellows. Cyber Guardians is our end of the course presentation where we demonstrate our skills and knowledge we have learned in our Networking class 🙌. 
     </h4>
     <div id="header" align="center">
   <img src="https://github.com/Cyber-Guardians/.github/blob/main/Screenshot%202023-05-15%20090526.png"  width="30%" height="30%">
