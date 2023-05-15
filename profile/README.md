@@ -18,11 +18,11 @@
 <p align="left"> ${\color{red}Alexander \space Echols }$ </p> 
 <p align="left"> Army combat veteran. </p>
 
-
 <a href="https://www.linkedin.com/in/genevaknott/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
-<a href="https://github.com/GenevaKnott"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Geneva | GitHub" width="100px"/></a>
-<p align="left"> ${\color{red}Geneva \space Knott}$ </p> 
-<p align="left"> USMC Veteran, Radio Operator with experince in network configuration. B.S Criminal Justice. AAS in Cyber Defense in progress. CompTia certifications in ITF +, and Network +.  </p>
+<a href="GitHub](https://github.com/GenevaKnott"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Geneva  | GitHub" width="100px"/></a>
+<p align="left"> ${\color{red}Geneva \space Knott }$ </p> 
+<p align="left"> USMC Veteran. </p>
+
 
 
 <a href="https://www.linkedin.com/in/dericus-horner/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dericus | LinkedIn" width="100px"/></a>
