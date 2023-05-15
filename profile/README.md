@@ -29,11 +29,11 @@
  </p>
 <a href="https://www.linkedin.com/in/your-new-associate/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dylan | LinkedIn" width="100px"/></a>
 <a href="https://github.com/DylanDempsey1"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Dylan | GitHub" width="100px"/></a> 
-<p align="left"> ${\color{red}Dericus \space Uribe \space Horner}$ </p> 
+<p align="left"> ${\color{red}Dylan  \space Dempsey}$ </p> 
 <p align="left"> veteran </p>
 <a href="https://www.linkedin.com/in/anthony-wall-a2783019/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anthony | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Anthony098626"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Dylan | GitHub" width="100px"/></a> 
-<p align="left"> ${\color{red}Anthony  \space Wall \space Horner}$ </p> 
+<p align="left"> ${\color{red}Anthony  \space Wall}$ </p> 
 <p align="left"> USMC Veteran </p>
 #
 ## 💾 Description of our project 🚧
