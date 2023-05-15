@@ -56,7 +56,7 @@
  <br>
   
 
-**What we did:** Utilizing two AWS EC2 instances, one Windows and one Linux base, we created a virtual private gateway for each instance to connect using a site-to-site VPN. We deployed each instance with their respective private subnets. The site-to-site VPN allows for secure communication. We will logg and monitir using AWS CloudTrail and AWS GuardDuty.
+**What we did:** Utilizing two AWS EC2 instances, one Windows and one Linux base, we created a virtual private gateway for each instance to connect using a site-to-site VPN. We deployed each instance with their respective private subnets. The site-to-site VPN allows for secure communication. We will log and monitor using AWS CloudTrail and AWS GuardDuty.
 
 **Our solution:** 
 
