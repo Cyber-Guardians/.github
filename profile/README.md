@@ -35,8 +35,9 @@
 <a href="https://github.com/Anthony098626"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Dylan | GitHub" width="100px"/></a> 
 <p align="left"> ${\color{red}Anthony  \space Wall}$ </p> 
 <p align="left"> USMC Veteran </p>
-#
-## 💾 Description of our project 🚧
+
+
+💾 Description of our project 🚧
 **Our company:** Cyber Guardians is a team of security professionals contracted to improve the cybersecurity processes and systems for a client company. Our focus is on logging, monitoring, and detecting adversarial activity on cloud infrastructure.
 
 **Our scenario:** 
