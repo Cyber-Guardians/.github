@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/alexander88echols/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alexander | LinkedIn" width="100px"/></a>
 <a href="https://github.com/R00sterGuy"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Alexander  | GitHub" width="100px"/></a>
 <p align="left"> ${\color{red}Alexander \space Echols }$ </p> 
-<p align="left"> Army combat veteran. </p>
+<p align="left"> Army Veteran. </p>
 <a href="https://www.linkedin.com/in/genevaknott/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
 <a href="https://github.com/GenevaKnott"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Geneva  | GitHub" width="100px"/></a>
 <p align="left"> ${\color{red}Geneva \space Knott }$ </p> 
@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/your-new-associate/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dylan | LinkedIn" width="100px"/></a>
 <a href="https://github.com/DylanDempsey1"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Dylan | GitHub" width="100px"/></a> 
 <p align="left"> ${\color{red}Dylan  \space Dempsey}$ </p> 
-<p align="left"> veteran </p>
+<p align="left"> Veteran </p>
 <a href="https://www.linkedin.com/in/anthony-wall-a2783019/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anthony | LinkedIn" width="100px"/></a>
 <a href="https://github.com/Anthony098626"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Dylan | GitHub" width="100px"/></a> 
 <p align="left"> ${\color{red}Anthony  \space Wall}$ </p> 
