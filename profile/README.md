@@ -1,12 +1,17 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+# Cyber Guardians
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Cyber Guardians is a team of security professionals contracted to improve the cybersecurity processes and systems for a client company. Our focus is on logging, monitoring, and detecting adversarial activity on cloud infrastructure.
+
+## Team Members
+
+- **Alexander Echols** - [GitHub](https://github.com/R00sterGuy) | [LinkedIn](https://www.linkedin.com/in/alexander88echols/)
+- **Dericus Horner** - [GitHub](https://github.com/Dhorner4) | [LinkedIn](https://www.linkedin.com/in/dericus-horner/)
+- **Dylan Dempsey** - [GitHub](https://github.com/DylanDempsey1) | [LinkedIn](https://www.linkedin.com/in/your-new-associate/)
+- **Geneva Knott** - [GitHub](https://github.com/GenevaKnott) | [LinkedIn](https://www.linkedin.com/in/genevaknott/)
+- **Anthony Wall** - [GitHub](https://github.com/Anthony098626) | [LinkedIn](https://www.linkedin.com/in/anthony-wall-a2783019/)
+
+## Project Management
+
+Our team uses [Trello](https://trello.com/b/BipghZcm/cyber-guardians) to manage tasks and collaborate on the project.
