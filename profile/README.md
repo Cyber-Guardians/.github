@@ -40,7 +40,23 @@
 💾 Description of our project 🚧
 **Our company:** Cyber Guardians is a team of security professionals contracted to improve the cybersecurity processes and systems for a client company. Our focus is on logging, monitoring, and detecting adversarial activity on cloud infrastructure.
 
-**Our scenario:** 
+<a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Screenshot%202023-05-15%20121944.png"><img align="left" img src="https://github.com/Cyber-Guardians/Documentation/blob/main/Screenshot%202023-05-15%20121944.png" width="50%" height="50%"/></a>
+<p align="left">
+   <br>
+  <br>
+   <br> 
+   <br> 
+   <br>
+    <br>
+     <br> 
+     <br>
+      <br>
+       <br>
+        <br>
+ <br>
+  
+
+**What we did:** Utilizing two AWS EC2 instances, one Windows and one Linux base, we created a virtual private gateway for each instance to connect using a site-to-site VPN. We deployed each instance with their respective private subnets. The site-to-site VPN allows for secure communication. We will logg and monitir using AWS CloudTrail and AWS GuardDuty.
 
 **Our solution:** 
 
