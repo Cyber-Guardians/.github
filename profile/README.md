@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="Cyber Guardian (1).pdf"  width="30%" height="30%">
+  <img src="https://github.com/Cyber-Guardians/.github/blob/main/Screenshot%202023-05-15%20090526.png"  width="30%" height="30%">
   <h1>
     👋 Welcome to our team project
   </h1>
