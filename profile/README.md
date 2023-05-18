@@ -42,6 +42,11 @@
 
 <a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Screenshot%202023-05-15%20121944.png"><img align="left" img src="https://github.com/Cyber-Guardians/Documentation/blob/main/Screenshot%202023-05-15%20121944.png" width="50%" height="50%"/></a>
 <p align="left">
+  
+  
+<a href="https://github.com/Cyber-Guardians/Documentation/blob/main/Group%204%20OPS401%20Mid%20Project%20Deck%20%20(1).jpg"><img align="right" img src="https://github.com/Cyber-Guardians/Documentation/blob/main/Group%204%20OPS401%20Mid%20Project%20Deck%20%20(1).jpg" width="45%" height="45%"/></a>
+<p align="right">
+  
    <br>
   <br>
    <br> 
