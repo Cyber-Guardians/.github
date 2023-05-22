@@ -12,8 +12,12 @@
 </div>
 
 
-
-<p align="center">View our presentation CyberGuardians <a href="https://fb.watch/kDZQZWXpJZ/?mibextid=cr9u03">Click here</a></p>
+<p align="center">
+  <a href="https://fb.watch/kDZQZWXpJZ/?mibextid=cr9u03">
+    <img src="https://github.com/Cyber-Guardians/Documentation/blob/main/facebook-logo-0.png" alt="Facebook" width="50px">
+  </a>
+  View our presentation CyberGuardians
+</p>
 
 ## 🤝 Connect with us 👨‍💻👩‍💻👩‍💻👩‍💻
 
